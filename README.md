@@ -122,6 +122,11 @@ pip install pipwin
 pipwin install pyaudio
 ```
 
+### Note about pyaudio
+- Platform-specific sound modules (automatically handled)
+- winsound (for Windows)
+- For Linux/macOS sound support, install 'sox' system package
+
 ### Usage
 Run the script:
 ```bash
@@ -159,5 +164,3 @@ python speech6.py
 
 
 Please raise an issue if any of the above is not clear or doesn't work.
-
-- Ram
