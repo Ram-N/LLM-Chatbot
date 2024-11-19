@@ -1,0 +1,8 @@
+langchain_core==0.3.19
+langchain_groq==0.2.1
+python-dotenv==1.0.1
+deep_translator==1.11.4
+gTTS==2.5.3
+langdetect==1.0.9
+pydub==0.25.1
+SpeechRecognition==3.11.0
